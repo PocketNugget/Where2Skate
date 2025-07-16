@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52412077968",
+    "project_id": "where2skate-c17f4",
+    "storage_bucket": "where2skate-c17f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52412077968:android:436fb65cb03a95cd190515",
+        "android_client_info": {
+          "package_name": "com.example.where2skate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbXCNPM5TdiqXODJz1Ror3C-4WFwT_Uo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
