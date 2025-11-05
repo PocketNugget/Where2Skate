@@ -33,8 +33,6 @@ The application allows users to:
 
 This section will showcase the main user interfaces of the application.
 
-*(You can add your screenshots here later)*
-
 1.  **Login & Registration Screen:** Clean and simple interface for user authentication.
 2.  **Home/Map Screen:** The main screen featuring the interactive map with all skate spots.
 3.  **Spot Details Screen:** A view showing detailed information about a specific spot, including its name, description, photos, and user ratings.
